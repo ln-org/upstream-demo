@@ -1,0 +1,5 @@
+# Contributing
+1. Please open an Issue first to discuss.
+2. Fork & create a feature branch.
+3. Use Conventional Commits (e.g., feat/docs/fix).
+4. Link issues in commits/PR (e.g., Fixes #12).
