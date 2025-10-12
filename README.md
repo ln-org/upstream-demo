@@ -2,12 +2,9 @@
 
 ## intro
 
-This repo is using for learning PR.
+This repo is using for learning Fork & PR.
 
 ## Contributor
 - [yzh](https://github.com/yzh-han)
 
-This is try fork and pr.
-
-another account try.
-newBranch: another account try.
+请在下方写下你的名字（格式： ### 小明）
